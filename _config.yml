@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: 차곡차곡 개발 기록
+description: 
 url: https://ihatehudwedge.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -28,12 +28,12 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: 
-  card: 
+#twitter:
+  #username: 
+  #card: 
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Kim Sihoon
   links:
     - https://github.com/ihatehudwedge
 google_site_verification: xxxxx
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Kim Sihoon
   url: https://github.com/ihatehudwedge
-  email: vszhub@gmail.com
+  email: kimsihoon@proton.me
